@@ -52,3 +52,6 @@ put_user
 damon_for_each_target
 iio_device_claim_direct_scoped
 scoped_guard
+KVM_BUG_ON
+rht_for_each_rcu
+mlx5_lag_for_each
