@@ -179,3 +179,4 @@ pvr2_ctrl_get_def 1
 isl29501_register_read 2
 snd_rme_get_status1 1
 tee_shm_get_pa 2
+amdgpu_xcp_get_inst_details 2
