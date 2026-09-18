@@ -8,6 +8,7 @@ __arch_hweight8
 __arch_hweight16
 __arch_hweight32
 __arch_hweight64
+array_index_mask_nospec
 __write_once_size
 atomic_set
 atomic_read
